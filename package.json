@@ -1,0 +1,23 @@
+{
+  "name": "lstebner-dailyprogrammer",
+  "version": "0.0.0",
+  "description": "a place for doing r/dailyprogrammer challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git+https://github.com/lstebner/dailyprogrammer.git",
+  "keywords": [
+    "exercises",
+    "practice"
+  ],
+  "author": "lstebner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lstebner/dailyprogrammer/issues"
+  },
+  "homepage": "https://github.com/lstebner/dailyprogrammer#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
