@@ -1,0 +1,569 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sayTime It is <hour> o'clock am/pm can say 1:00 1`] = `"It is one o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 2:00 1`] = `"It is two o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 3:00 1`] = `"It is three o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 4:00 1`] = `"It is four o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 5:00 1`] = `"It is five o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 6:00 1`] = `"It is six o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 7:00 1`] = `"It is seven o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 8:00 1`] = `"It is eight o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 9:00 1`] = `"It is nine o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 10:00 1`] = `"It is ten o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 11:00 1`] = `"It is eleven o'clock am"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 12:00 1`] = `"It is twelve o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 13:00 1`] = `"It is one o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 14:00 1`] = `"It is two o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 15:00 1`] = `"It is three o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 16:00 1`] = `"It is four o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 17:00 1`] = `"It is five o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 18:00 1`] = `"It is six o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 19:00 1`] = `"It is seven o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 20:00 1`] = `"It is eight o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 21:00 1`] = `"It is nine o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 22:00 1`] = `"It is ten o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 23:00 1`] = `"It is eleven o'clock pm"`;
+
+exports[`sayTime It is <hour> o'clock am/pm can say 24:00 1`] = `"It is twelve o'clock pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:01 1`] = `"It is one oh one am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:02 1`] = `"It is one oh two am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:03 1`] = `"It is one oh three am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:04 1`] = `"It is one oh four am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:05 1`] = `"It is one oh five am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:06 1`] = `"It is one oh six am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:07 1`] = `"It is one oh seven am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:08 1`] = `"It is one oh eight am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:09 1`] = `"It is one oh nine am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:10 1`] = `"It is one ten am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:11 1`] = `"It is one eleven am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:12 1`] = `"It is one twelve am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:13 1`] = `"It is one thirteen am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:14 1`] = `"It is one fourteen am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:15 1`] = `"It is one fifteen am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:16 1`] = `"It is one sixteen am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:17 1`] = `"It is one seventeen am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:18 1`] = `"It is one eighteen am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:19 1`] = `"It is one nineteen am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:20 1`] = `"It is one twenty am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:21 1`] = `"It is one twenty one am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:22 1`] = `"It is one twenty two am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:23 1`] = `"It is one twenty three am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:24 1`] = `"It is one twenty four am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:25 1`] = `"It is one twenty five am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:26 1`] = `"It is one twenty six am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:27 1`] = `"It is one twenty seven am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:28 1`] = `"It is one twenty eight am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:29 1`] = `"It is one twenty nine am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:30 1`] = `"It is one thirty am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:31 1`] = `"It is one thirty one am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:32 1`] = `"It is one thirty two am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:33 1`] = `"It is one thirty three am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:34 1`] = `"It is one thirty four am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:35 1`] = `"It is one thirty five am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:36 1`] = `"It is one thirty six am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:37 1`] = `"It is one thirty seven am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:38 1`] = `"It is one thirty eight am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:39 1`] = `"It is one thirty nine am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:40 1`] = `"It is one forty am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:41 1`] = `"It is one forty one am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:42 1`] = `"It is one forty two am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:43 1`] = `"It is one forty three am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:44 1`] = `"It is one forty four am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:45 1`] = `"It is one forty five am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:46 1`] = `"It is one forty six am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:47 1`] = `"It is one forty seven am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:48 1`] = `"It is one forty eight am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:49 1`] = `"It is one forty nine am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:50 1`] = `"It is one fifty am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:51 1`] = `"It is one fifty one am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:52 1`] = `"It is one fifty two am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:53 1`] = `"It is one fifty three am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:54 1`] = `"It is one fifty four am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:55 1`] = `"It is one fifty five am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:56 1`] = `"It is one fifty six am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:57 1`] = `"It is one fifty seven am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:58 1`] = `"It is one fifty eight am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 1:59 1`] = `"It is one fifty nine am"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:01 1`] = `"It is seven oh one pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:02 1`] = `"It is seven oh two pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:03 1`] = `"It is seven oh three pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:04 1`] = `"It is seven oh four pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:05 1`] = `"It is seven oh five pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:06 1`] = `"It is seven oh six pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:07 1`] = `"It is seven oh seven pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:08 1`] = `"It is seven oh eight pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:09 1`] = `"It is seven oh nine pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:10 1`] = `"It is seven ten pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:11 1`] = `"It is seven eleven pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:12 1`] = `"It is seven twelve pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:13 1`] = `"It is seven thirteen pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:14 1`] = `"It is seven fourteen pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:15 1`] = `"It is seven fifteen pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:16 1`] = `"It is seven sixteen pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:17 1`] = `"It is seven seventeen pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:18 1`] = `"It is seven eighteen pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:19 1`] = `"It is seven nineteen pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:20 1`] = `"It is seven twenty pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:21 1`] = `"It is seven twenty one pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:22 1`] = `"It is seven twenty two pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:23 1`] = `"It is seven twenty three pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:24 1`] = `"It is seven twenty four pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:25 1`] = `"It is seven twenty five pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:26 1`] = `"It is seven twenty six pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:27 1`] = `"It is seven twenty seven pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:28 1`] = `"It is seven twenty eight pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:29 1`] = `"It is seven twenty nine pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:30 1`] = `"It is seven thirty pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:31 1`] = `"It is seven thirty one pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:32 1`] = `"It is seven thirty two pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:33 1`] = `"It is seven thirty three pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:34 1`] = `"It is seven thirty four pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:35 1`] = `"It is seven thirty five pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:36 1`] = `"It is seven thirty six pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:37 1`] = `"It is seven thirty seven pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:38 1`] = `"It is seven thirty eight pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:39 1`] = `"It is seven thirty nine pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:40 1`] = `"It is seven forty pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:41 1`] = `"It is seven forty one pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:42 1`] = `"It is seven forty two pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:43 1`] = `"It is seven forty three pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:44 1`] = `"It is seven forty four pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:45 1`] = `"It is seven forty five pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:46 1`] = `"It is seven forty six pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:47 1`] = `"It is seven forty seven pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:48 1`] = `"It is seven forty eight pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:49 1`] = `"It is seven forty nine pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:50 1`] = `"It is seven fifty pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:51 1`] = `"It is seven fifty one pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:52 1`] = `"It is seven fifty two pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:53 1`] = `"It is seven fifty three pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:54 1`] = `"It is seven fifty four pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:55 1`] = `"It is seven fifty five pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:56 1`] = `"It is seven fifty six pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:57 1`] = `"It is seven fifty seven pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:58 1`] = `"It is seven fifty eight pm"`;
+
+exports[`sayTime It is <hour> oh <minute> am/pm can say 19:59 1`] = `"It is seven fifty nine pm"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:01 1`] = `"It is oh four oh one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:02 1`] = `"It is oh four oh two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:03 1`] = `"It is oh four oh three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:04 1`] = `"It is oh four oh four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:05 1`] = `"It is oh four oh five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:06 1`] = `"It is oh four oh six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:07 1`] = `"It is oh four oh seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:08 1`] = `"It is oh four oh eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:09 1`] = `"It is oh four oh nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:10 1`] = `"It is oh four one zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:11 1`] = `"It is oh four one one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:12 1`] = `"It is oh four one two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:13 1`] = `"It is oh four one three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:14 1`] = `"It is oh four one four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:15 1`] = `"It is oh four one five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:16 1`] = `"It is oh four one six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:17 1`] = `"It is oh four one seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:18 1`] = `"It is oh four one eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:19 1`] = `"It is oh four one nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:20 1`] = `"It is oh four two zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:21 1`] = `"It is oh four two one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:22 1`] = `"It is oh four two two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:23 1`] = `"It is oh four two three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:24 1`] = `"It is oh four two four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:25 1`] = `"It is oh four two five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:26 1`] = `"It is oh four two six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:27 1`] = `"It is oh four two seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:28 1`] = `"It is oh four two eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:29 1`] = `"It is oh four two nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:30 1`] = `"It is oh four three zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:31 1`] = `"It is oh four three one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:32 1`] = `"It is oh four three two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:33 1`] = `"It is oh four three three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:34 1`] = `"It is oh four three four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:35 1`] = `"It is oh four three five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:36 1`] = `"It is oh four three six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:37 1`] = `"It is oh four three seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:38 1`] = `"It is oh four three eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:39 1`] = `"It is oh four three nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:40 1`] = `"It is oh four four zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:41 1`] = `"It is oh four four one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:42 1`] = `"It is oh four four two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:43 1`] = `"It is oh four four three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:44 1`] = `"It is oh four four four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:45 1`] = `"It is oh four four five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:46 1`] = `"It is oh four four six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:47 1`] = `"It is oh four four seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:48 1`] = `"It is oh four four eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:49 1`] = `"It is oh four four nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:50 1`] = `"It is oh four five zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:51 1`] = `"It is oh four five one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:52 1`] = `"It is oh four five two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:53 1`] = `"It is oh four five three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:54 1`] = `"It is oh four five four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:55 1`] = `"It is oh four five five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:56 1`] = `"It is oh four five six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:57 1`] = `"It is oh four five seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:58 1`] = `"It is oh four five eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 4:59 1`] = `"It is oh four five nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:01 1`] = `"It is twenty one oh one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:02 1`] = `"It is twenty one oh two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:03 1`] = `"It is twenty one oh three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:04 1`] = `"It is twenty one oh four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:05 1`] = `"It is twenty one oh five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:06 1`] = `"It is twenty one oh six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:07 1`] = `"It is twenty one oh seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:08 1`] = `"It is twenty one oh eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:09 1`] = `"It is twenty one oh nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:10 1`] = `"It is twenty one one zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:11 1`] = `"It is twenty one one one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:12 1`] = `"It is twenty one one two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:13 1`] = `"It is twenty one one three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:14 1`] = `"It is twenty one one four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:15 1`] = `"It is twenty one one five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:16 1`] = `"It is twenty one one six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:17 1`] = `"It is twenty one one seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:18 1`] = `"It is twenty one one eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:19 1`] = `"It is twenty one one nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:20 1`] = `"It is twenty one two zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:21 1`] = `"It is twenty one two one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:22 1`] = `"It is twenty one two two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:23 1`] = `"It is twenty one two three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:24 1`] = `"It is twenty one two four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:25 1`] = `"It is twenty one two five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:26 1`] = `"It is twenty one two six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:27 1`] = `"It is twenty one two seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:28 1`] = `"It is twenty one two eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:29 1`] = `"It is twenty one two nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:30 1`] = `"It is twenty one three zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:31 1`] = `"It is twenty one three one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:32 1`] = `"It is twenty one three two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:33 1`] = `"It is twenty one three three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:34 1`] = `"It is twenty one three four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:35 1`] = `"It is twenty one three five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:36 1`] = `"It is twenty one three six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:37 1`] = `"It is twenty one three seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:38 1`] = `"It is twenty one three eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:39 1`] = `"It is twenty one three nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:40 1`] = `"It is twenty one four zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:41 1`] = `"It is twenty one four one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:42 1`] = `"It is twenty one four two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:43 1`] = `"It is twenty one four three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:44 1`] = `"It is twenty one four four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:45 1`] = `"It is twenty one four five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:46 1`] = `"It is twenty one four six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:47 1`] = `"It is twenty one four seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:48 1`] = `"It is twenty one four eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:49 1`] = `"It is twenty one four nine"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:50 1`] = `"It is twenty one five zero"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:51 1`] = `"It is twenty one five one"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:52 1`] = `"It is twenty one five two"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:53 1`] = `"It is twenty one five three"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:54 1`] = `"It is twenty one five four"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:55 1`] = `"It is twenty one five five"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:56 1`] = `"It is twenty one five six"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:57 1`] = `"It is twenty one five seven"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:58 1`] = `"It is twenty one five eight"`;
+
+exports[`sayTime military time It is <hour> <minute> <minute> can say 21:59 1`] = `"It is twenty one five nine"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 1:00 1`] = `"It is oh one hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 2:00 1`] = `"It is oh two hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 3:00 1`] = `"It is oh three hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 4:00 1`] = `"It is oh four hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 5:00 1`] = `"It is oh five hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 6:00 1`] = `"It is oh six hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 7:00 1`] = `"It is oh seven hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 8:00 1`] = `"It is oh eight hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 9:00 1`] = `"It is oh nine hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 10:00 1`] = `"It is ten hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 11:00 1`] = `"It is eleven hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 12:00 1`] = `"It is twelve hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 13:00 1`] = `"It is thirteen hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 14:00 1`] = `"It is fourteen hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 15:00 1`] = `"It is fifteen hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 16:00 1`] = `"It is sixteen hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 17:00 1`] = `"It is seventeen hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 18:00 1`] = `"It is eighteen hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 19:00 1`] = `"It is nineteen hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 20:00 1`] = `"It is twenty hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 21:00 1`] = `"It is twenty one hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 22:00 1`] = `"It is twenty two hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 23:00 1`] = `"It is twenty three hundred"`;
+
+exports[`sayTime military time It is <hour> o'clock can say 24:00 1`] = `"It is twenty four hundred"`;
